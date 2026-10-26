@@ -19,7 +19,7 @@ A two-page Power BI dashboard that looks at one year of retail sales (January to
 
 The big picture: headline KPIs, the monthly trend, order split by payment mode, and revenue by category and region.
 
-![Overview page](images/overview.png)
+![Overview page](overview.png)
 
 - **Total revenue: 5.92M** from **523 orders**
 - **Average order value (AOV): about 11.32K**
@@ -33,7 +33,7 @@ The big picture: headline KPIs, the monthly trend, order split by payment mode, 
 
 A closer look at cities, products, quantity sold, ratings and category performance.
 
-![Detailed analysis page](images/detailed-analysis.png)
+![Detailed analysis page](detailed-analysis.png)
 
 - **Top cities by revenue:** Ahmedabad (717.6K), Bengaluru (706.4K) and Pune (583.7K)
 - **Top products:** Office Chair (1.08M) and Study Table (1.03M) are far ahead of everything else. Wireless Mouse is third at 426K
